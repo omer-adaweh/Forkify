@@ -1,6 +1,6 @@
 # forkify Project
 
-Recipe Querying Engine which allows users to search their favorite recipes and get variations of that recipe. It utilizes the food2fork APi to query the recipes and implements an easy to read pagination for users to scrol through. It also shows user the amount of ingredients needed per each serving.  Application using only pure JS.
+Recipe Querying Engine which allows users to search their favorite recipes and get variations of that recipe. It utilizes the food2fork APi to query the recipes and implements an easy to read pagination for users to scroll through. It also shows user the amount of ingredients needed per each serving. Application uses pure JS.
 
 To run application:
 1. Download code from github repository.
